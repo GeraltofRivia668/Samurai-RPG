@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\final project samurai game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\final project samurai game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|c:\\users\\student4\\desktop\\gitfinalproject\\samurai-rpg\\final project samurai game\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6021E7D7-9CB0-44E3-AE6A-36F662109EF8}|Final Project Samurai Game\\Final Project Samurai Game.csproj|solutionrelative:final project samurai game\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Final Project Samurai Game",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Final Project Samurai Game.csproj",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\Final Project Samurai Game.csproj",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Final Project Samurai Game.csproj",
+              "RelativeToolTip": "Final Project Samurai Game\\Final Project Samurai Game.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T04:02:15.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Inventory.cs",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Inventory.cs",
+              "RelativeToolTip": "Final Project Samurai Game\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:55:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\NPC.cs",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\NPC.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\NPC.cs",
+              "RelativeToolTip": "Final Project Samurai Game\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:55:44.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Hero.cs",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\Hero.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Hero.cs",
+              "RelativeToolTip": "Final Project Samurai Game\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:53:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Enemy.cs",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Enemy.cs",
+              "RelativeToolTip": "Final Project Samurai Game\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:52:35.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Program.cs",
+              "RelativeDocumentMoniker": "Final Project Samurai Game\\Program.cs",
+              "ToolTip": "C:\\Users\\Student4\\Desktop\\GitFinalProject\\Samurai-RPG\\Final Project Samurai Game\\Program.cs",
+              "RelativeToolTip": "Final Project Samurai Game\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowFgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:52:08.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
