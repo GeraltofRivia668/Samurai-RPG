@@ -3,12 +3,12 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-🗡️ Samurai's Oath: Shadows of Honor
+🗡 Samurai's Oath: Shadows of Honor
 Genre: Action-Adventure / RPG / Stealth
 Platform: PC / Console
 Mode: Single-player, Class-based Campaign
 
-🔥 Game Description:
+ Game Description:
 "Samurai's Oath: Shadows of Honor" is a gripping action-RPG set in the war-torn lands of feudal Japan. Choose your path as a Samurai, Assassin, or Archer—each with unique combat styles, skill trees, and storylines. In a world teetering on the edge of chaos, your choices will shape the fate of the nation.
 
 The shogunate has fallen into corruption, and ancient forces stir beneath the surface. As a warrior bound by vengeance or justice, you must reclaim your honor and uncover the truth behind the betrayal of your clan.
