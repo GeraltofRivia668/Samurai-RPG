@@ -3,7 +3,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-🗡 Samurai's Oath: Shadows of Honor
+ Samurai's Oath: Shadows of Honor
 Genre: Action-Adventure / RPG / Stealth
 Platform: PC / Console
 Mode: Single-player, Class-based Campaign
@@ -14,7 +14,7 @@ Mode: Single-player, Class-based Campaign
 The shogunate has fallen into corruption, and ancient forces stir beneath the surface. As a warrior bound by vengeance or justice, you must reclaim your honor and uncover the truth behind the betrayal of your clan.
 
  Playable Classes:
-🗡 Samurai – The Path of Honor
+ Samurai – The Path of Honor
 Style: Melee, high-damage, defense-focused
 
 Abilities: Precision strikes, parries, weapon stances, bushido-based special moves
